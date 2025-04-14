@@ -15,6 +15,9 @@ At the moment, I am working on building my portfolio, which includes:
   <img src="./river_washington.gif" width="300" />
 </div>
 
+### 🎧 Highly recommended:  
+🎶 **Vibe while you scroll:** [Enjoy my projects while listening to peaceful nature sounds 🌲🕊️](./assets/audio/nature_sounds.mp3)  🎵
+
 * 🌍  I'm originally from Brazil and currently living in Vancouver
 * 🧠  Learning: PostgreSQL, Python, SQL, Pandas, Matplotlib, Git, Django, Vue.js, Docker, PySpark, Hive, Hadoop
 * 🤝  Open to collaboration on data-driven sustainability or tech-for-good projects
