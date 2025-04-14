@@ -1,7 +1,7 @@
 ## 🌱 Data Science Student | 🌎 Passionate about Sustainability and Tech
 
 <div align="center">
-  <img src="./Capa_provisoria- DS_ EEng.png" width="300" />
+  <img src="./Capa_provisoria- DS_ EEng.png" width="700" />
 </div>
 
 I'm currently based in Vancouver, Canada, where I'm taking a Data Science program focused on tools like Python, SQL, PostgreSQL, Pandas, and Matplotlib. I originally come from a background in **Environmental Engineering**, where I worked on impactful projects related to **waste management and data collection** for major city events.
@@ -16,7 +16,7 @@ At the moment, I am working on building my portfolio, which includes:
 - 🎲 Designing an original sci-fi RPG universe called **Prospero**, where I combine storytelling and worldbuilding with scientific imagination. This personal project merges creativity and analytics, offering immersive narratives inspired by environmental transformation, alien ecosystems, and speculative technology.
 
 <div align="center">
-  <img src="./river_washington.gif" width="300" />
+  <img src="./river_washington.gif" width="500" />
 </div>
 
 ### 🎧 Highly recommended:  
