@@ -2,7 +2,7 @@
 
 I'm currently based in Vancouver, Canada, where I'm taking a Data Science program focused on tools like Python, SQL, PostgreSQL, Pandas, and Matplotlib. I originally come from a background in **Environmental Engineering**, where I worked on impactful projects related to **waste management and data collection** for major city events.
 
-My journey into data science is fueled by a desire to combine technology with sustainable development. I'm passionate about uncovering insights from data that can drive meaningful change—especially in the context of **environmental recovery** and **climate-related challenges**.
+My journey into data science is fueled by a desire to combine technology with sustainable development. I'm passionate about uncovering insights from data that can drive meaningful change, especially in the context of **environmental recovery** and **climate-related challenges**.
 
 At the moment, I am working on building my portfolio, which includes:
 
@@ -25,8 +25,6 @@ At the moment, I am working on building my portfolio, which includes:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matplotlib-colored.svg" width="36" height="36" alt="Matplotlib" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
