@@ -1,7 +1,7 @@
 ## 🌱 Data Science Student | 🌎 Passionate about Sustainability and Tech
 
 <div align="center">
-  <img src="./Capa_provisoria- DS_ EEng.png" width="950" />
+  <img src="./Capa_provisoria- DS_ EEng.png" width="1000" />
 </div>
 
 I'm currently based in Vancouver, Canada, where I'm taking a Data Science program focused on tools like Python, SQL, PostgreSQL, Pandas, and Matplotlib. I originally come from a background in **Environmental Engineering**, where I worked on impactful projects related to **waste management and data collection** for major city events.
@@ -13,7 +13,8 @@ At the moment, I am working on building my portfolio, which includes:
 - 📊 A salary analysis project using SQL and Python (based on Kaggle data)
 - 🗃️ SQL exercises using PostgreSQL and pgAdmin4
 - 🌿 Researching environmental datasets focused on degraded land recovery
-- 🎲 Designing an original sci-fi RPG universe called **Prospero**, where I combine storytelling and worldbuilding with scientific imagination. This personal project merges creativity and analytics, offering immersive narratives inspired by environmental transformation, alien ecosystems, and speculative technology.
+  
+This personal project merges creativity and analytics, offering immersive narratives inspired by environmental transformation, alien ecosystems, and speculative technology.
 
 <div align="center">
   <img src="./river_washington.gif" width="500" />
@@ -50,7 +51,12 @@ At the moment, I am working on building my portfolio, which includes:
 
 [![@aloblack19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALOBlack19&show_icons=true&theme=default)](https://github.com/ALOBlack19)
 
+### 🧩 Curiosities & Hobbies:
 
+- 🎲 Designing an original sci-fi RPG universe called Prospero, where I combine storytelling and worldbuilding with scientific imagination.
+- 📚 Passionate about sci-fi, speculative ecosystems, and blending creative writing with environmental concepts.
+- 🎧 Nature sounds enthusiast – I often code while listening to rivers and birds 🌿
+- 🎮 Enjoy immersive games and collaborative storytelling experiences.
 
 <!---
 ALOBlack19/ALOBlack19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
