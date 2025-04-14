@@ -16,7 +16,7 @@ At the moment, I am working on building my portfolio, which includes:
 </div>
 
 ### 🎧 Highly recommended:  
-🎶 **Vibe while you scroll:** [Enjoy my projects while listening to peaceful nature sounds 🌲🕊️](./assets/audio/nature_sounds.mp3)  🎵
+🎶 **Vibe while you scroll:** [Enjoy my projects while listening to peaceful nature sounds 🌲🕊️](https://www.youtube.com/watch?v=F1gK85IEeDI)  🎵
 
 * 🌍  I'm originally from Brazil and currently living in Vancouver
 * 🧠  Learning: PostgreSQL, Python, SQL, Pandas, Matplotlib, Git, Django, Vue.js, Docker, PySpark, Hive, Hadoop
