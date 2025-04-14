@@ -1,7 +1,7 @@
 ## 🌱 Data Science Student | 🌎 Passionate about Sustainability and Tech
 
 <div align="center">
-  <img src="./Capa_provisoria- DS_ EEng.png" width="700" />
+  <img src="./Capa_provisoria- DS_ EEng.png" width="950" />
 </div>
 
 I'm currently based in Vancouver, Canada, where I'm taking a Data Science program focused on tools like Python, SQL, PostgreSQL, Pandas, and Matplotlib. I originally come from a background in **Environmental Engineering**, where I worked on impactful projects related to **waste management and data collection** for major city events.
