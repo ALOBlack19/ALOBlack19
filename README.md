@@ -1,12 +1,10 @@
-<table>
-<tr>
-<td>
-
 ## 🌱 Data Science Student | 🌎 Passionate about Sustainability and Tech
+
+<img align="right" src="./river_washington.gif" width="300" />
 
 I'm currently based in Vancouver, Canada, where I'm taking a Data Science program focused on tools like Python, SQL, PostgreSQL, Pandas, and Matplotlib. I originally come from a background in **Environmental Engineering**, where I worked on impactful projects related to **waste management and data collection** for major city events.
 
-My journey into data science is fueled by a desire to combine technology with sustainable development. I'm passionate about uncovering insights from data that can drive meaningful change—especially in the context of **environmental recovery** and **climate-related challenges**.
+My journey into data science is fueled by a desire to combine technology with sustainable development. I'm passionate about uncovering insights from data that can drive meaningful change, especially in the context of **environmental recovery** and **climate-related challenges**.
 
 At the moment, I am working on building my portfolio, which includes:
 
@@ -15,53 +13,33 @@ At the moment, I am working on building my portfolio, which includes:
 - 🌿 Researching environmental datasets focused on degraded land recovery
 - 🎲 Designing an original sci-fi RPG universe called **Prospero**, where I combine storytelling and worldbuilding with scientific imagination. This personal project merges creativity and analytics, offering immersive narratives inspired by environmental transformation, alien ecosystems, and speculative technology.
 
-* 🌍  I'm originally from Brazil and currently living in Vancouver  
-* 🧠  Learning: PostgreSQL, Python, SQL, Pandas, Matplotlib, Git, Django, Vue.js, Docker, PySpark, Hive, Hadoop  
-* 🤝  Open to collaboration on data-driven sustainability or tech-for-good projects  
-* ✨  Interested in roles that merge Data Science with Environmental Impact  
-* 💬  Multilingual: English | Portuguese (native) | Professional: Spanish  
+* 🌍  I'm originally from Brazil and currently living in Vancouver
+* 🧠  Learning: PostgreSQL, Python, SQL, Pandas, Matplotlib, Git, Django, Vue.js, Docker, PySpark, Hive, Hadoop
+* 🤝  Open to collaboration on data-driven sustainability or tech-for-good projects
+* ✨  Interested in roles that merge Data Science with Environmental Impact
+* 💬  Multilingual: English | Portuguese (native) | Professional: Spanish 
 
-</td>
-<td>
-
-<img align="right" src="./river_washington.gif" width="300"/>
-
-</td>
-</tr>
-</table>
-
-### Curiosity and hobbies:
-
-- 🎲 Designing an original sci-fi RPG universe called **Prospero**, where I combine storytelling and worldbuilding with scientific imagination. This personal project merges creativity and analytics, offering immersive narratives inspired by environmental transformation, alien ecosystems, and speculative technology.
 ### Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-e25a1c?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
 ### Socials
 
-<p align="left">
-  <a href="https://www.instagram.com/amiroliveira_/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/amirloliveira/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ALOBlack19" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALOBlack19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirloliveira/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amiroliveira_/)
 
 ### Badges
 
-<a href="https://github.com/ALOBlack19" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALOBlack19&langs_count=5&title_color=22c55e&text_color=22c55e&icon_color=84cc16&bg_color=1a1b27&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+[![@aloblack19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALOBlack19&show_icons=true&theme=default)](https://github.com/ALOBlack19)
 
 
 
