@@ -11,7 +11,9 @@ At the moment, I am working on building my portfolio, which includes:
 - 🌿 Researching environmental datasets focused on degraded land recovery
 - 🎲 Designing an original sci-fi RPG universe called **Prospero**, where I combine storytelling and worldbuilding with scientific imagination. This personal project merges creativity and analytics, offering immersive narratives inspired by environmental transformation, alien ecosystems, and speculative technology.
 
-<img align="center" src="./river_washington.gif" width="300" />
+<div align="center">
+  <img src="./river_washington.gif" width="300" />
+</div>
 
 * 🌍  I'm originally from Brazil and currently living in Vancouver
 * 🧠  Learning: PostgreSQL, Python, SQL, Pandas, Matplotlib, Git, Django, Vue.js, Docker, PySpark, Hive, Hadoop
