@@ -27,7 +27,7 @@ This personal project merges creativity and analytics, offering immersive narrat
 * 🧠  Learning: PostgreSQL, Python, SQL, Pandas, Matplotlib, Git, Django, Vue.js, Docker, PySpark, Hive, Hadoop
 * 🤝  Open to collaboration on data-driven sustainability or tech-for-good projects
 * ✨  Interested in roles that merge Data Science with Environmental Impact
-* 💬  Multilingual: English | Portuguese (native) | Professional: Spanish 
+* 💬  Multilingual: English | Portuguese (native) | Spanish 
 
 ### Skills
 
@@ -39,7 +39,6 @@ This personal project merges creativity and analytics, offering immersive narrat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-e25a1c?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
 ### Socials
 
